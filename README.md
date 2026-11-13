@@ -28,7 +28,7 @@ Through this project, our team aimed to demonstrate how information technology c
 Watch the full prototype walkthrough here: https://youtu.be/4Uy-uTsU3pc
 
 ## 📄 Prototype Screenshots
-View the full PDF documentation of the prototype screens: [Prototype Screenshots (PDF)](./YOUR_FOLDER_NAME/YOUR_PDF_FILENAME.pdf)
+View the full PDF documentation of the prototype screens: [Prototype Screenshots (PDF)](./Interfaces/interfaces.pdf)
 
 
 ## Features
