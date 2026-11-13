@@ -88,7 +88,7 @@ BARBERQUE/
 ├── ar/                     # AR hairstyle preview module
 ├── ar-test/                # AR testing pages and assets
 ├── database/
-│   └── barberque.sql       # MySQL database export
+│   └── barbershop.sql       # MySQL database export
 │
 ├── hairs/                  # 3D hairstyle models (GLB)
 ├── images/                 # Website images and uploaded media
@@ -159,7 +159,7 @@ CREATE DATABASE barbershop;
 The project includes a database export located at:
 
 ```text
-database/barberque.sql
+database/barbershop.sql
 ```
 
 **Using phpMyAdmin:**
@@ -167,7 +167,7 @@ database/barberque.sql
 1. Open phpMyAdmin.
 2. Select the `barbershop` database.
 3. Navigate to the Import tab.
-4. Choose `database/barberque.sql`.
+4. Choose `database/barbershop.sql`.
 5. Click Import or Go.
 6. Wait until the database import is completed.
 
@@ -176,7 +176,7 @@ database/barberque.sql
 You can also import the database using:
 
 ```bash
-mysql -u root -p barbershop < database/barberque.sql
+mysql -u root -p barbershop < database/barbershop.sql
 ```
 
 If your MySQL root account does not have a password, simply press Enter when prompted.
